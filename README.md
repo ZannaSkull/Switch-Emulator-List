@@ -11,7 +11,10 @@ Nintendo Switch emulators.
 * [Pomelo](https://github.com/Pomelo-Emu/Pomelo)
 * [Strato](https://strato-emu.github.io/)
 
+Discontinued Ones: 
 
+* [Yuzu](https://github.com/yuzu-emu)
+* [Ryujinx](https://ryujinx.org/)
 
 # Important Notice: Support for Ethical Use Only
 
