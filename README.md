@@ -3,7 +3,6 @@ In this GitHub repository, you can find a comprehensive list of
 Nintendo Switch emulators.
 
  
-* [Suyu](https://suyu.dev/)
 * [Sudachi](https://sudachi-emu.com/download/)
 * [Ziunx](https://ziunx-emu.org/)
 * [Torzu](https://notabug.org/litucks/torzu)
@@ -19,6 +18,7 @@ Discontinued Ones:
 
 * [Yuzu](https://github.com/yuzu-emu)
 * [Ryujinx](https://ryujinx.org/)
+* [Suyu](https://suyu.dev/)
 
 # Important Notice: Support for Ethical Use Only
 
