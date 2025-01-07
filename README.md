@@ -7,7 +7,7 @@ Nintendo Switch emulators.
 * [Ziunx](https://ziunx-emu.org/)
 * [Torzu](https://notabug.org/litucks/torzu)
 * [EggNS](https://play.google.com/store/apps/details?id=com.xiaoji.gamesirnsemulator.x.google&hl=en_US)
-* [Pomelo](https://github.com/Pomelo-Emu/Pomelo)
+* [Pomelo](https://pomelo-emu.github.io/)
 * [Citron](https://citron-emu.org/)
 * [Nyushu](https://t.me/nyushu_Emu)
 * [Strato](https://strato-emu.github.io/)
