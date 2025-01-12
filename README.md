@@ -10,6 +10,7 @@ Nintendo Switch emulators.
 * [Pomelo](https://pomelo-emu.github.io/)
 * [Citron](https://citron-emu.org/)
 * [Nyushu](https://t.me/nyushu_Emu)
+* [Pine]([https://t.me/nyushu_Emu](https://github.com/Ishan09811/pine/releases))
 * [Strato](https://strato-emu.github.io/)
 
 * [Ryujinx KeatonTheBot](https://github.com/KeatonTheBot/Ryujinx)
