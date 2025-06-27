@@ -2,9 +2,10 @@
 In this GitHub repository, you can find a comprehensive list of 
 Nintendo Switch emulators.
 
- 
+* [Ryubing](https://github.com/Ryubing)
 * [Sudachi](https://sudachi.emuplace.app/)
-* [Ziunx](https://ziunx-emu.org/)
+* [Ziunx](https://eden-emu.dev/)
+* [Eden](https://ziunx-emu.org/)
 * [Torzu](https://notabug.org/litucks/torzu)
 * [EggNS](https://play.google.com/store/apps/details?id=com.xiaoji.gamesirnsemulator.x.google&hl=en_US)
 * [Pomelo](https://pomelo-emu.github.io/)
@@ -14,6 +15,10 @@ Nintendo Switch emulators.
 * [Strato](https://strato-emu.github.io/)
 
 * [ryujinx-mirror](https://github.com/ryujinx-mirror)
+
+# Compatibility Forum's: 
+
+* [EmuReady](https://www.emuready.com/)
 
 Discontinued Ones: 
 
