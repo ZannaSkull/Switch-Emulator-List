@@ -16,15 +16,15 @@ Nintendo Switch emulators.
 
 * [ryujinx-mirror](https://github.com/ryujinx-mirror)
 
-# Compatibility Forum's: 
-
-* [EmuReady](https://www.emuready.com/)
-
 Discontinued Ones: 
 
 * [Yuzu](https://github.com/yuzu-emu)
 * [Ryujinx](https://ryujinx.org/)
 * [Suyu](https://suyu.dev/)
+
+# Compatibility Forum's: 
+
+* [EmuReady](https://www.emuready.com/)
 
 # Important Notice: Support for Ethical Use Only
 
