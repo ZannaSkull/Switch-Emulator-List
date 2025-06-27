@@ -3,7 +3,7 @@ In this GitHub repository, you can find a comprehensive list of
 Nintendo Switch emulators.
 
  
-* [Sudachi](https://sudachi-emu.com/download/)
+* [Sudachi](https://sudachi.emuplace.app/)
 * [Ziunx](https://ziunx-emu.org/)
 * [Torzu](https://notabug.org/litucks/torzu)
 * [EggNS](https://play.google.com/store/apps/details?id=com.xiaoji.gamesirnsemulator.x.google&hl=en_US)
