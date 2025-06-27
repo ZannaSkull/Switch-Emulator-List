@@ -13,9 +13,7 @@ Nintendo Switch emulators.
 * [Pine](https://github.com/Ishan09811/pine/releases)
 * [Strato](https://strato-emu.github.io/)
 
-* [Ryujinx KeatonTheBot](https://github.com/KeatonTheBot/Ryujinx)
 * [ryujinx-mirror](https://github.com/ryujinx-mirror)
-* [Ryujinx GreemDev](https://github.com/GreemDev/Ryujinx)
 
 Discontinued Ones: 
 
